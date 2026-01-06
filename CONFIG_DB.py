@@ -4,7 +4,7 @@ import logging
 from pymongo.errors import ConnectionFailure, ServerSelectionTimeoutError
 
 # Configure MongoDB connection with proper options
-CONNECTION_STRING = "mongodb+srv://amkushu999:kNK30QJ3WpscZ6H5@amkush.eqmhymy.mongodb.net/?retryWrites=true&w=majority"
+CONNECTION_STRING = "mongodb+srv://klenin980_db_user:1234567890@cluster0.nl6rjoc.mongodb.net/?appName=Cluster0"
 
 # Connection pool settings
 MONGO_OPTIONS = {
