@@ -35,7 +35,7 @@ async def start_background_tasks():
 
 if __name__ == "__main__":
     # send_server_alert()
-    print("SPILUXX BOT IS ACTIVE✅")
+    print("TOpScannerNeT BOT IS ACTIVE✅")
     print("NOW START YOUR BOT ")
     
     # Start background tasks
